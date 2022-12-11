@@ -6,7 +6,7 @@ Software Engineer
 
 Confident with JavaSript,TypeScript and modern frameworks like React & Angular. I studied with courses like [CS50 introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) and [The Odin Project](https://www.theodinproject.com/) , before attending Codeworks Software Engineering Bootcamp.
 
-* 🌍  I'm based in Manchester,Uk
+* 🌍  I'm based in Manchester, Uk
 * 🖥️  See my portfolio at [Topfolio](https://topfolio.herokuapp.com/lupo.marco94-portfolio)
 * ✉️  You can contact me at [lupo.marco94@gmail.com](mailto:lupo.marco94@gmail.com)
 * 🚀  I'm currently working on [Topfolio](https://topfolio.herokuapp.com/)
