@@ -8,7 +8,6 @@ Confident with JavaSript, TypeScript and modern frameworks like React & Angular.
 
 * 🌍  I'm based in Manchester, Uk
 * 🖥️  See my portfolio at [Topfolio](https://topfolio.herokuapp.com/lupo.marco94-portfolio)
-* ✉️  You can contact me at [lupo.marco94@gmail.com](mailto:lupo.marco94@gmail.com)
 * 🚀  I'm currently working on [Topfolio](https://topfolio.herokuapp.com/)
 * 🧠  I'm learning ThreeJS & React
 * ⚡  I've been a Chef for 7 years!
