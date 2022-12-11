@@ -48,6 +48,8 @@ Confident with JavaSript,TypeScript and modern frameworks like React & Angular. 
 
 <b>My GitHub Stats</b>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 <a href="http://www.github.com/MarcoLupo94"><img src="https://github-readme-stats.vercel.app/api?username=MarcoLupo94&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MarcoLupo94's GitHub stats" /></a>
 
 <a href="https://github.com/MarcoLupo94" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLupo94&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
