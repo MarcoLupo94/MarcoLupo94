@@ -7,9 +7,8 @@ Software Engineer
 Confident with JavaSript, TypeScript and modern frameworks like React & Angular. I studied with courses like [CS50 introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) and [The Odin Project](https://www.theodinproject.com/), before attending Codeworks Software Engineering Bootcamp.
 
 * 🌍  I'm based in Manchester, Uk
-* 🖥️  See my portfolio at [here](https://marco-lupo.vercel.app/)
 * 🚀  I'm currently working at MissionLabs.
-* 🧠  I'm working with React & ThreeJs
+* 🧠  I'm working with React, Typescript & NodeJs
 * ⚡  I've been a Chef for 7 years in the past!
 
 ### Skills
